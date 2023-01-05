@@ -26,8 +26,3 @@ namespace Proje2
         }
     }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Priv
